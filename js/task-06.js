@@ -7,6 +7,7 @@
 
 // Для добавления стилей, используй CSS-классы valid и invalid, 
 // которые мы уже добавили в исходные файлы задания.
+
 const input = document.querySelector ('#validation-input');
 const inputLength = input.dataset.length;
 
